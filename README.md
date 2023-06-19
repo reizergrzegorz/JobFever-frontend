@@ -37,6 +37,3 @@ CSS
 Styled Components
 HTML
 
-🚀 Video of project
-
-241818666-2c1e5042-821e-4b44-9a26-8452fcd487a2.mp4 
