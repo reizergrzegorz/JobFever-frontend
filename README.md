@@ -1,3 +1,5 @@
+![image](https://github.com/reizergrzegorz/JobFever-frontend/assets/100795534/6b3a5af7-a49c-4995-83ff-d49e9f580bd8)
+
 Job Fever is an innovative web application that is revolutionizing the job search process in the programming field. Our platform allows users to quickly find the perfect position in their preferred location and field, and it also offers additional features that make the recruiting experience even more comprehensive and interactive.
 
 
@@ -34,3 +36,7 @@ JavaScript
 CSS
 Styled Components
 HTML
+
+🚀 Video of project
+
+241818666-2c1e5042-821e-4b44-9a26-8452fcd487a2.mp4 
